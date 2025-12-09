@@ -1,2 +1,2 @@
 # TalonJS
-The official TalonJS framework
+The official TalonJS debug client
